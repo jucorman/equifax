@@ -1,0 +1,66 @@
+/* BODY */
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+/* HEADER */
+
+/* PRIMERA PARTE */
+#primera-parte {
+    background-image: url(../img/carousel1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 727px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* SEGUNDA PARTE */
+#segunda-parte {
+    background-color: #000000;
+    background-size: 100vw;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 66px;
+}
+
+#segunda-parte div {
+    display: inline-block;
+    vertical-align: left;
+    margin: 0px 50px;
+}
+
+#segunda-parte div p {
+    color: #ffffff;
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    width: 475px;
+    text-align: left;
+}
+
+/* TERCERA PARTE */
+h1 {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+    
